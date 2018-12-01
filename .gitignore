@@ -1,3 +1,7 @@
+# Build and dist directories
+build/
+dist/
+
 # Prerequisites
 *.d
 
